@@ -526,6 +526,10 @@ You can review the details using the links below.
 ### :pushpin:***You can access my LinkedIn account [from here](https://www.linkedin.com/in/sevde-sekman-09495119b/).*** ###
 
 
+ ## **License** ##
+
+:balance_scale: [MIT :copyright: 2022 Sevde Sekman](https://github.com/sevdeskmn/Rental-front-end/blob/main/LICENSE)
+
 
 
  
