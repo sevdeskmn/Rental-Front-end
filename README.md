@@ -353,133 +353,134 @@ Our files under the Services folder allow us to make a request to the WebAPI par
   
   According to the results of the operation from our Back-end section, the part where we edit how these results should be transmitted to the end user is our files under this folder. You can review the details using the links below.
   
-  :open_file_folder: [Components](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components)
+  :open_file_folder: [Components](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/components)
   
-  :open_file_folder: [Brand](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/brand)
+  :open_file_folder: [Brand](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/components/brand)
   
-  - :page_facing_up:[brand.component.html](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/brand/brand.component.html)
+  - :page_facing_up:[brand.component.html](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/brand/brand.component.html)
   
-  - :page_facing_up:[brand.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/brand/brand.component.ts)
+  - :page_facing_up:[brand.component.ts](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/brand/brand.component.ts)
   
- :open_file_folder: [CarAdd](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/car-add)
+ :open_file_folder: [CarAdd](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/components/car-add)
  
- - :page_facing_up: [car-add.component.html](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/car-add/car-add.component.html)
+ - :page_facing_up: [car-add.component.html](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/car-add/car-add.component.html)
  
- - :page_facing_up: [car-add.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/car-add/car-add.component.ts)
+ - :page_facing_up: [car-add.component.ts](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/car-add/car-add.component.ts)
  
  ![araç ekleme](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/caradd.png)
  
-  :open_file_folder: [CarFilter](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/car-filter)
+  :open_file_folder: [CarFilter](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/components/car-filter)
  
- - :page_facing_up: [car-filter.component.html](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/car-filter/car-filter.component.html)
+ - :page_facing_up: [car-filter.component.html](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/car-filter/car-filter.component.html)
  
- - :page_facing_up: [car-filter.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/car-filter/car-filter.component.ts)
+ - :page_facing_up: [car-filter.component.ts](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/car-filter/car-filter.component.ts)
  
  ![Carfilter](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/filter.png)
  
- :open_file_folder: [CarUpdate](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/car-update)
+ :open_file_folder: [CarUpdate](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/components/car-update)
  
- - :page_facing_up: [car-update.component.html](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/car-update/car-update.component.html)
+ - :page_facing_up: [car-update.component.html](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/car-update/car-update.component.html)
  
- - :page_facing_up: [car-update.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/car-update/car-update.component.ts)
-
+ - :page_facing_up: [car-update.component.ts](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/car-update/car-update.component.ts)
+ 
  ![update](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/update.png)
  
- :open_file_folder: [Cars](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/car)
+ :open_file_folder: [Cars](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/components/car)
  
- - :page_facing_up: [car.component.html](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/car/car.component.html)
+ - :page_facing_up: [car.component.html](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/car/car.component.html)
  
- - :page_facing_up: [car.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/car/car.component.ts)
+ - :page_facing_up: [car.component.ts](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/car/car.component.ts)
  
  ![cars1](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/cars.png)
  
  ![cars2](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/cars2.png)
  
- :open_file_folder: [CarDetail](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/cardetail)
+ :open_file_folder: [CarDetail](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/components/cardetail)
  
- - :page_facing_up: [cardetail.component.html](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/cardetail/cardetail.component.html)
+ - :page_facing_up: [cardetail.component.html](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/cardetail/cardetail.component.html)
  
- - :page_facing_up: [cardetail.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/cardetail/cardetail.component.ts)
+ - :page_facing_up: [cardetail.component.ts](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/cardetail/cardetail.component.ts)
  
  ![detail](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/carDetail.png)
  
-  :open_file_folder: [Color](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/color)
+  :open_file_folder: [Color](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/components/color)
  
- - :page_facing_up: [color.component.html](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/color/color.component.html)
+ - :page_facing_up: [color.component.html](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/color/color.component.html)
  
- - :page_facing_up: [color.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/color/color.component.ts)
+ - :page_facing_up: [color.component.ts](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/color/color.component.ts)
  
- :open_file_folder: [Customer](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/customer)
+ :open_file_folder: [Customer](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/components/customer)
  
- - :page_facing_up: [customer.component.html](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/customer/customer.component.html)
+ - :page_facing_up: [customer.component.html](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/customer/customer.component.html)
  
- - :page_facing_up: [customer.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/customer/customer.component.ts)
+ - :page_facing_up: [customer.component.ts](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/customer/customer.component.ts)
  
  ![customer](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/customers.png)
  
- :open_file_folder: [Footer](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/footer)
+ :open_file_folder: [Footer](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/components/footer)
  
- - :page_facing_up: [footer.component.html](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/footer/footer.component.html)
+ - :page_facing_up: [footer.component.html](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/footer/footer.component.html)
  
- - :page_facing_up: [footer.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/footer/footer.component.ts)
+ - :page_facing_up: [footer.component.ts](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/footer/footer.component.ts)
  
  ![footer](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/footer.png)
  
- :open_file_folder: [Login](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/login)
+ :open_file_folder: [Login](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/components/login)
  
- - :page_facing_up: [login.component.html](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/login/login.component.html)
+ - :page_facing_up: [login.component.html](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/login/login.component.html)
  
- - :page_facing_up: [login.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/login/login.component.ts)
+ - :page_facing_up: [login.component.ts](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/login/login.component.ts)
  
-![login](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/login.png)
+ ![login](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/login.png)
  
- :open_file_folder: [Navi](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/navi)
+ :open_file_folder: [Navi](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/components/navi)
  
- - :page_facing_up: [navi.component.html](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/navi/navi.component.html)
+ - :page_facing_up: [navi.component.html](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/navi/navi.component.html)
  
- - :page_facing_up: [navi.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/navi/navi.component.ts)
+ - :page_facing_up: [navi.component.ts](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/navi/navi.component.ts)
  
  ![option](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/options.png)
  
- :open_file_folder: [Payment](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/payment)
+ :open_file_folder: [Payment](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/components/payment)
  
- - :page_facing_up: [payment.component.html](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/payment/payment.component.html)
+ - :page_facing_up: [payment.component.html](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/payment/payment.component.html)
  
- - :page_facing_up: [payment.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/payment/payment.component.ts)
+ - :page_facing_up: [payment.component.ts](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/payment/payment.component.ts)
  
  ![payment](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/payment.png)
  
- :open_file_folder: [Register](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/register)
+ :open_file_folder: [Register](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/components/register)
  
- - :page_facing_up: [register.component.html](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/register/register.component.html)
+ - :page_facing_up: [register.component.html](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/register/register.component.html)
  
- - :page_facing_up: [register.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/register/register.component.ts)
+ - :page_facing_up: [register.component.ts](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/register/register.component.ts)
  
  ![register](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/register.png)
  
- :open_file_folder: [RentalDetail](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/rental-detail)
+ :open_file_folder: [RentalDetail](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/components/rental-detail)
  
- - :page_facing_up: [rental-detail.component.html](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/rental-detail/rental-detail.component.html)
+ - :page_facing_up: [rental-detail.component.html](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/rental-detail/rental-detail.component.html)
  
- - :page_facing_up: [rental-detail.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/rental-detail/rental-detail.component.ts)
+ - :page_facing_up: [rental-detail.component.ts](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/rental-detail/rental-detail.component.ts)
  
- :open_file_folder: [Rental](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/rental)
+ :open_file_folder: [Rental](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/components/rental)
  
- - :page_facing_up: [rental.component.html](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/rental/rental.component.html)
+ - :page_facing_up: [rental.component.html](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/rental/rental.component.html)
  
- - :page_facing_up: [rental.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/rental/rental.component.ts)
+ - :page_facing_up: [rental.component.ts](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/rental/rental.component.ts)
  
  ![rental](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/rental.png)
  
- :open_file_folder: [UserOrganize](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/user-organize)
+ :open_file_folder: [UserOrganize](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/components/user-organize)
  
- - :page_facing_up: [user-organize.component.html](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/user-organize/user-organize.component.html)
+ - :page_facing_up: [user-organize.component.html](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/user-organize/user-organize.component.html)
  
- - :page_facing_up: [user-organize.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/user-organize/user-organize.component.ts)
+ - :page_facing_up: [user-organize.component.ts](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/components/user-organize/user-organize.component.ts)
  
  ![user](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/user.png)
  
  ![usersettings](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/usersettings.png)
+ 
  
  ## Pipes ##
  
