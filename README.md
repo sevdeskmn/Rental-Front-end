@@ -259,9 +259,7 @@ Aşağıdaki bağlantıları kullanarak detayları inceleyebilirsiniz.
  
  - :page_facing_up:[AuthInterceptors](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/interceptors/auth.interceptor.ts)
  
- ### :pushpin:***LinkedIn hesabıma [buradan](https://www.linkedin.com/in/ahmet-hilmi-%C3%A7ilo%C4%9Flu-884012203/) ulaşabilirsiniz.*** ###
- 
- ### :e-mail:***E-mail: hlmclgl@gmail.com*** ###
+ ### :pushpin:***LinkedIn hesabıma [buradan](https://www.linkedin.com/in/sevde-sekman-09495119b/) ulaşabilirsiniz.*** ###
  
  # Araç Sepeti.com 
  
