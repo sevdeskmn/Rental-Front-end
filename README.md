@@ -24,67 +24,67 @@ Araç Sepeti, SOLID prensiplerine bağlı kalınarak ve N-Katmalı mimari yapıs
  
  Bu klasör altındaki typescript dosyaları Araç Sepeti'nin backend kısmındaki Entities klasöründe bulunan nesnelere karşılık gelmektedir. Bu klasör Back-End den gelen ve Front-End den gönderilen verilerin düzenlenmesi amacıyla oluşturulmuştur. Back-end kısmındaki Entities Layer kısmına [buradan](https://github.com/hlmclgl/RentaCarProject/tree/master/Entities) ulaşabilirsiniz.
  
-:open_file_folder: [Models](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/models)
+:open_file_folder: [Models](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/models)
   
-  - :page_facing_up:[Brand](https://github.com/sevdeskmn/Rental-front-end/blob/master/src/app/models/brand.ts)
+  - :page_facing_up:[Brand](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/brand.ts)
   
-  - :page_facing_up:[CarDetail](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/carDetail.ts)
+  - :page_facing_up:[CarDetail](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/carDetail.ts)
   
-  - :page_facing_up:[Color](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/color.ts)
+  - :page_facing_up:[Color](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/color.ts)
   
-  - :page_facing_up:[CreditCard](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/creditCard.ts)
+  - :page_facing_up:[CreditCard](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/creditCard.ts)
   
-  - :page_facing_up:[Customer](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/customer.ts)
+  - :page_facing_up:[Customer](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/customer.ts)
   
-  - :page_facing_up:[CarImage](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/image.ts)
+  - :page_facing_up:[CarImage](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/image.ts)
   
-  - :page_facing_up:[ListResponseModel](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/listResponseModel.ts)
+  - :page_facing_up:[ListResponseModel](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/listResponseModel.ts)
   
-  - :page_facing_up:[LoginModel](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/loginModel.ts)
+  - :page_facing_up:[LoginModel](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/loginModel.ts)
   
-  - :page_facing_up:[Payment](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/payment.ts)
+  - :page_facing_up:[Payment](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/payment.ts)
   
-  - :page_facing_up:[RegisterModel](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/registerModel.ts)
+  - :page_facing_up:[RegisterModel](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/registerModel.ts)
   
-  - :page_facing_up:[Rental](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/rental.ts)
+  - :page_facing_up:[Rental](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/rental.ts)
   
-  - :page_facing_up:[RentalDetail](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/rentalDetail.ts)
+  - :page_facing_up:[RentalDetail](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/rentalDetail.ts)
   
-  - :page_facing_up:[ResponseModel](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/responseModel.ts)
+  - :page_facing_up:[ResponseModel](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/responseModel.ts)
   
-  - :page_facing_up:[SingleResponseModel](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/singleResponseModel.ts)
+  - :page_facing_up:[SingleResponseModel](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/singleResponseModel.ts)
   
-  - :page_facing_up:[TokenModel](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/tokenModel.ts)
+  - :page_facing_up:[TokenModel](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/tokenModel.ts)
   
-  - :page_facing_up:[User](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/user.ts)
+  - :page_facing_up:[User](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/user.ts)
   
 ## Services ##
 
 Services klasörü altındaki dosyalarımız back-end de olan WebAPI kısmına istekte bulunmamızı sağlar. WebAPI alınan isteği back-end kısmımızda bulunan operasyonlara iletir ona karşılık bir sonuç gelir. Her bir typescript dosyası WebAPI de ki bir Controller'a denk gelmektedir. Back-end kısmındaki WebAPI kısmına [buradan](https://github.com/hlmclgl/RentaCarProject/tree/master/WebAPI) ulaşabilirsiniz. Aşağıdaki bağlantıları kullanarak Services klasörünün detaylarına erişebilirsiniz.
   
-:open_file_folder:[Services](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/services)
+:open_file_folder:[Services](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/services)
    
-  - :page_facing_up:[AuthService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/auth.service.ts)
+  - :page_facing_up:[AuthService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/auth.service.ts)
   
-  - :page_facing_up:[BrandService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/brand.service.ts)
+  - :page_facing_up:[BrandService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/brand.service.ts)
   
-  - :page_facing_up:[CarService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/car.service.ts)
+  - :page_facing_up:[CarService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/car.service.ts)
   
-  - :page_facing_up:[ColorService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/color.service.ts)
+  - :page_facing_up:[ColorService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/color.service.ts)
   
-  - :page_facing_up:[CreditCardService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/credit-card.service.ts)
+  - :page_facing_up:[CreditCardService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/credit-card.service.ts)
   
-  - :page_facing_up:[CustomerService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/customer.service.ts)
+  - :page_facing_up:[CustomerService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/customer.service.ts)
   
-  - :page_facing_up:[CarImageService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/image.service.ts)
+  - :page_facing_up:[CarImageService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/image.service.ts)
   
-  - :page_facing_up:[LocalStorageService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/local-storage.service.ts)
+  - :page_facing_up:[LocalStorageService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/local-storage.service.ts)
   
-  - :page_facing_up:[PaymentService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/payment.service.ts)
+  - :page_facing_up:[PaymentService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/payment.service.ts)
   
-  - :page_facing_up:[RentalService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/rental.service.ts)
+  - :page_facing_up:[RentalService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/rental.service.ts)
   
-  - :page_facing_up:[UserService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/user.service.ts)
+  - :page_facing_up:[UserService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/user.service.ts)
   
   ## Components ##
   
@@ -223,23 +223,23 @@ Services klasörü altındaki dosyalarımız back-end de olan WebAPI kısmına i
 Pipes klasörümüzle, sayfamızda gösterdiğimiz datalara filtreler oluşturabiliyoruz.
 Aşağıdaki bağlantıları kullanarak detayları inceleyebilirsiniz.
 
-:open_file_folder: [Pipes](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/pipes)
+:open_file_folder: [Pipes](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/pipes)
 
 :pushpin:Alt kısımdaki filter-brand.pipe dosyamız araç listemizde bulanan marka kısmına göre, text kutumuza girilen karakterlere uygun sonuçların listelenmesini sağlar.
  
- - :page_facing_up: [FilterBrandPipe](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/pipes/filter-brand-pipe.pipe.ts)
+ - :page_facing_up: [FilterBrandPipe](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/pipes/filter-brand-pipe.pipe.ts)
  
 ![brandfilter](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/brandFilter2.png)
  
 :pushpin:Alt kısımdaki filter-color.pipe dosyamız araç listemizde bulanan renk kısmına göre, text kutumuza girilen karakterlere uygun sonuçların listelenmesini sağlar.
  
- - :page_facing_up: [FilterColorPipe](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/pipes/filter-color-pipe.pipe.ts)
+ - :page_facing_up: [FilterColorPipe](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/pipes/filter-color-pipe.pipe.ts)
  
 ![colorfilter](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/ColorFilter2.png)
 
 :pushpin:Alt kısımdaki filter-pipe.pipe dosyamız araç listemizde bulanan araçları marka ve modele göre, text kutumuza girilen karakterlere uygun sonuçların listelenmesini sağlar.
  
- - :page_facing_up: [FilterPipe](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/pipes/filter-pipe.pipe.ts)
+ - :page_facing_up: [FilterPipe](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/pipes/filter-pipe.pipe.ts)
  
 ![carfilter](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/filter.png)
  
@@ -247,17 +247,17 @@ Aşağıdaki bağlantıları kullanarak detayları inceleyebilirsiniz.
 
 Login guard kritik işlemleri yapmadan önce giriş yapıp yapmadığımızı denetler.Aşağıdaki bağlantıları kullanarak detayları inceleyebilirsiniz.
  
- :open_file_folder: [Guards](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/guards)
+ :open_file_folder: [Guards](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/guards)
  
- - :page_facing_up: [LoginGuard](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/guards/login.guard.ts)
+ - :page_facing_up: [LoginGuard](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/guards/login.guard.ts)
  
 ## Interceptors ##
 
 Aşağıdaki bağlantıları kullanarak detayları inceleyebilirsiniz.
  
- :open_file_folder: [Interceptors](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/interceptors)
+ :open_file_folder: [Interceptors](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/interceptors)
  
- - :page_facing_up:[AuthInterceptors](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/interceptors/auth.interceptor.ts)
+ - :page_facing_up:[AuthInterceptors](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/interceptors/auth.interceptor.ts)
  
  ### :pushpin:***LinkedIn hesabıma [buradan](https://www.linkedin.com/in/ahmet-hilmi-%C3%A7ilo%C4%9Flu-884012203/) ulaşabilirsiniz.*** ###
  
@@ -289,67 +289,67 @@ Araç Sepeti is a car rental project that belongs to the C# programming language
  
  The typescript files under this folder correspond to the objects in the Entities folder in the backend of RentaCarProject. This folder is created to organize data from the Back-end and sent from the Front-end. You can arrive at the Back-end layer part in the portion entities [from here](https://github.com/hlmclgl/RentaCarProject/tree/master/Entities).
  
-:open_file_folder: [Models](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/models)
+:open_file_folder: [Models](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/models)
   
-  - :page_facing_up:[Brand](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/brand.ts)
+  - :page_facing_up:[Brand](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/brand.ts)
   
-  - :page_facing_up:[CarDetail](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/carDetail.ts)
+  - :page_facing_up:[CarDetail](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/carDetail.ts)
   
-  - :page_facing_up:[Color](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/color.ts)
+  - :page_facing_up:[Color](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/color.ts)
   
-  - :page_facing_up:[CreditCard](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/creditCard.ts)
+  - :page_facing_up:[CreditCard](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/creditCard.ts)
   
-  - :page_facing_up:[Customer](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/customer.ts)
+  - :page_facing_up:[Customer](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/customer.ts)
   
-  - :page_facing_up:[CarImage](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/image.ts)
+  - :page_facing_up:[CarImage](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/image.ts)
   
-  - :page_facing_up:[ListResponseModel](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/listResponseModel.ts)
+  - :page_facing_up:[ListResponseModel](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/listResponseModel.ts)
   
-  - :page_facing_up:[LoginModel](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/loginModel.ts)
+  - :page_facing_up:[LoginModel](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/loginModel.ts)
   
-  - :page_facing_up:[Payment](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/payment.ts)
+  - :page_facing_up:[Payment](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/payment.ts)
   
-  - :page_facing_up:[RegisterModel](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/registerModel.ts)
+  - :page_facing_up:[RegisterModel](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/registerModel.ts)
   
-  - :page_facing_up:[Rental](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/rental.ts)
+  - :page_facing_up:[Rental](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/rental.ts)
   
-  - :page_facing_up:[RentalDetail](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/rentalDetail.ts)
+  - :page_facing_up:[RentalDetail](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/rentalDetail.ts)
   
-  - :page_facing_up:[ResponseModel](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/responseModel.ts)
+  - :page_facing_up:[ResponseModel](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/responseModel.ts)
   
-  - :page_facing_up:[SingleResponseModel](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/singleResponseModel.ts)
+  - :page_facing_up:[SingleResponseModel](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/singleResponseModel.ts)
   
-  - :page_facing_up:[TokenModel](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/tokenModel.ts)
+  - :page_facing_up:[TokenModel](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/tokenModel.ts)
   
-  - :page_facing_up:[User](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/models/user.ts)
+  - :page_facing_up:[User](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/models/user.ts)
   
 ## Services ##
 
 Our files under the Services folder allow us to make a request to the WebAPI part, which is also at the back-end. WebAPI transmits the received request to the operations located in our back-end section. Each typescript file corresponds to a Controller in the WebAPI. You can arrive at the Back-end WebAPI section [from here](https://github.com/hlmclgl/RentaCarProject/tree/master/WebAPI).You can access the details of the Services folder by using the links below.
   
-:open_file_folder:[Services](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/services)
+:open_file_folder:[Services](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/services)
    
-  - :page_facing_up:[AuthService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/auth.service.ts)
+  - :page_facing_up:[AuthService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/auth.service.ts)
   
-  - :page_facing_up:[BrandService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/brand.service.ts)
+  - :page_facing_up:[BrandService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/brand.service.ts)
   
-  - :page_facing_up:[CarService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/car.service.ts)
+  - :page_facing_up:[CarService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/car.service.ts)
   
-  - :page_facing_up:[ColorService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/color.service.ts)
+  - :page_facing_up:[ColorService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/color.service.ts)
   
-  - :page_facing_up:[CreditCardService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/credit-card.service.ts)
+  - :page_facing_up:[CreditCardService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/credit-card.service.ts)
   
-  - :page_facing_up:[CustomerService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/customer.service.ts)
+  - :page_facing_up:[CustomerService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/customer.service.ts)
   
-  - :page_facing_up:[CarImageService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/image.service.ts)
+  - :page_facing_up:[CarImageService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/image.service.ts)
   
-  - :page_facing_up:[LocalStorageService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/local-storage.service.ts)
+  - :page_facing_up:[LocalStorageService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/local-storage.service.ts)
   
-  - :page_facing_up:[PaymentService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/payment.service.ts)
+  - :page_facing_up:[PaymentService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/payment.service.ts)
   
-  - :page_facing_up:[RentalService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/rental.service.ts)
+  - :page_facing_up:[RentalService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/rental.service.ts)
   
-  - :page_facing_up:[UserService](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/services/user.service.ts)
+  - :page_facing_up:[UserService](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/services/user.service.ts)
   
   ## Components ##
   
@@ -488,23 +488,23 @@ Our files under the Services folder allow us to make a request to the WebAPI par
 With our Pipes folder, we can create filters for the data we show on our page.
 You can review the details using the links below.
 
-:open_file_folder: [Pipes](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/pipes)
+:open_file_folder: [Pipes](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/pipes)
 
 :pushpin:Filter-brand at the bottom.our pipe file allows you to list the results that match the characters entered in our text box according to the brand section found in our tool list.
  
- - :page_facing_up: [FilterBrandPipe](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/pipes/filter-brand-pipe.pipe.ts)
+ - :page_facing_up: [FilterBrandPipe](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/pipes/filter-brand-pipe.pipe.ts)
  
 ![brandfilter](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/brandFilter2.png)
  
 :pushpin:Filter-color at the bottom.our pipe file allows you to list the results that match the characters entered in our text box according to the color section found in our tool list.
  
- - :page_facing_up: [FilterColorPipe](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/pipes/filter-color-pipe.pipe.ts)
+ - :page_facing_up: [FilterColorPipe](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/pipes/filter-color-pipe.pipe.ts)
  
 ![colorfilter](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/ColorFilter2.png)
 
 :pushpin:Filter-pipe at the bottom.our pipe file allows you to list the tools found in our tool list according to the brand and model, the results corresponding to the characters entered in our text box.
  
- - :page_facing_up: [FilterPipe](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/pipes/filter-pipe.pipe.ts)
+ - :page_facing_up: [FilterPipe](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/pipes/filter-pipe.pipe.ts)
  
 ![carfilter](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/filter.png)
  
@@ -512,17 +512,17 @@ You can review the details using the links below.
 
 Login guard checks whether we are logged in before performing critical operations.You can review the details using the links below.
  
- :open_file_folder: [Guards](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/guards)
+ :open_file_folder: [Guards](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/guards)
  
- - :page_facing_up: [LoginGuard](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/guards/login.guard.ts)
+ - :page_facing_up: [LoginGuard](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/guards/login.guard.ts)
  
 ## Interceptors ##
 
 You can review the details using the links below.
  
- :open_file_folder: [Interceptors](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/interceptors)
+ :open_file_folder: [Interceptors](https://github.com/sevdeskmn/Rental-front-end/tree/main/src/app/interceptors)
  
- - :page_facing_up:[AuthInterceptors](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/interceptors/auth.interceptor.ts)
+ - :page_facing_up:[AuthInterceptors](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/interceptors/auth.interceptor.ts)
  
 ### :pushpin:***You can access my LinkedIn account [from here](https://www.linkedin.com/in/ahmet-hilmi-%C3%A7ilo%C4%9Flu-884012203/).*** ###
 
