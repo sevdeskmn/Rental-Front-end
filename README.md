@@ -2,9 +2,9 @@
 
 ## English Below ##
 
-![Anasayfa 1](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/cars.png)
+![Anasayfa 1](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/cars.png)
 
-![Anasayfa 2](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/cars2.png)
+![Anasayfa 2](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/cars2.png)
 
 Araç Sepeti, SOLID prensiplerine bağlı kalınarak ve N-Katmalı mimari yapısıyla C# programlama diline ait; henüz geliştirilme aşamasında olan bir araç kiralama projesidir. Şu anda projenin Angular teknolojisi kullanılarak oluşturulmuş front-end kısmını incelemektesiniz.
 
@@ -104,7 +104,7 @@ Services klasörü altındaki dosyalarımız back-end de olan WebAPI kısmına i
  
  - :page_facing_up: [car-add.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/car-add/car-add.component.ts)
  
- ![araç ekleme](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/caradd.png)
+ ![araç ekleme](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/caradd.png)
  
   :open_file_folder: [CarFilter](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/car-filter)
  
@@ -112,7 +112,7 @@ Services klasörü altındaki dosyalarımız back-end de olan WebAPI kısmına i
  
  - :page_facing_up: [car-filter.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/car-filter/car-filter.component.ts)
  
- ![Carfilter](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/filter.png)
+ ![Carfilter](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/filter.png)
  
  :open_file_folder: [CarUpdate](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/car-update)
  
@@ -120,7 +120,7 @@ Services klasörü altındaki dosyalarımız back-end de olan WebAPI kısmına i
  
  - :page_facing_up: [car-update.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/car-update/car-update.component.ts)
  
- ![update](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/update.png)
+ ![update](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/update.png)
  
  :open_file_folder: [Cars](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/car)
  
@@ -128,9 +128,9 @@ Services klasörü altındaki dosyalarımız back-end de olan WebAPI kısmına i
  
  - :page_facing_up: [car.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/car/car.component.ts)
  
- ![cars1](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/cars.png)
+ ![cars1](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/cars.png)
  
- ![cars2](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/cars2.png)
+ ![cars2](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/cars2.png)
  
  :open_file_folder: [CarDetail](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/cardetail)
  
@@ -138,7 +138,7 @@ Services klasörü altındaki dosyalarımız back-end de olan WebAPI kısmına i
  
  - :page_facing_up: [cardetail.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/cardetail/cardetail.component.ts)
  
- ![detail](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/carDetail.png)
+ ![detail](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/carDetail.png)
  
   :open_file_folder: [Color](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/color)
  
@@ -152,7 +152,7 @@ Services klasörü altındaki dosyalarımız back-end de olan WebAPI kısmına i
  
  - :page_facing_up: [customer.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/customer/customer.component.ts)
  
- ![customer](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/customers.png)
+ ![customer](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/customers.png)
  
  :open_file_folder: [Footer](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/footer)
  
@@ -160,7 +160,7 @@ Services klasörü altındaki dosyalarımız back-end de olan WebAPI kısmına i
  
  - :page_facing_up: [footer.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/footer/footer.component.ts)
  
- ![footer](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/footer.png)
+ ![footer](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/footer.png)
  
  :open_file_folder: [Login](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/login)
  
@@ -168,7 +168,7 @@ Services klasörü altındaki dosyalarımız back-end de olan WebAPI kısmına i
  
  - :page_facing_up: [login.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/login/login.component.ts)
  
- ![login](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/login.png)
+ ![login](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/login.png)
  
  :open_file_folder: [Navi](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/navi)
  
@@ -176,7 +176,7 @@ Services klasörü altındaki dosyalarımız back-end de olan WebAPI kısmına i
  
  - :page_facing_up: [navi.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/navi/navi.component.ts)
  
- ![option](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/options.png)
+ ![option](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/options.png)
  
  :open_file_folder: [Payment](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/payment)
  
@@ -184,7 +184,7 @@ Services klasörü altındaki dosyalarımız back-end de olan WebAPI kısmına i
  
  - :page_facing_up: [payment.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/payment/payment.component.ts)
  
- ![payment](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/payment.png)
+ ![payment](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/payment.png)
  
  :open_file_folder: [Register](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/register)
  
@@ -192,7 +192,7 @@ Services klasörü altındaki dosyalarımız back-end de olan WebAPI kısmına i
  
  - :page_facing_up: [register.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/register/register.component.ts)
  
- ![register](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/register.png)
+ ![register](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/register.png)
  
  :open_file_folder: [RentalDetail](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/rental-detail)
  
@@ -206,7 +206,7 @@ Services klasörü altındaki dosyalarımız back-end de olan WebAPI kısmına i
  
  - :page_facing_up: [rental.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/rental/rental.component.ts)
  
- ![rental](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/rental.png)
+ ![rental](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/rental.png)
  
  :open_file_folder: [UserOrganize](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/user-organize)
  
@@ -214,9 +214,9 @@ Services klasörü altındaki dosyalarımız back-end de olan WebAPI kısmına i
  
  - :page_facing_up: [user-organize.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/user-organize/user-organize.component.ts)
  
- ![user](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/user.png)
+ ![user](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/user.png)
  
- ![usersettings](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/usersettings.png)
+ ![usersettings](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/usersettings.png)
  
  ## Pipes ##
  
@@ -229,19 +229,19 @@ Aşağıdaki bağlantıları kullanarak detayları inceleyebilirsiniz.
  
  - :page_facing_up: [FilterBrandPipe](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/pipes/filter-brand-pipe.pipe.ts)
  
-![brandfilter](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/brandFilter2.png)
+![brandfilter](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/brandFilter2.png)
  
 :pushpin:Alt kısımdaki filter-color.pipe dosyamız araç listemizde bulanan renk kısmına göre, text kutumuza girilen karakterlere uygun sonuçların listelenmesini sağlar.
  
  - :page_facing_up: [FilterColorPipe](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/pipes/filter-color-pipe.pipe.ts)
  
-![colorfilter](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/ColorFilter2.png)
+![colorfilter](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/ColorFilter2.png)
 
 :pushpin:Alt kısımdaki filter-pipe.pipe dosyamız araç listemizde bulanan araçları marka ve modele göre, text kutumuza girilen karakterlere uygun sonuçların listelenmesini sağlar.
  
  - :page_facing_up: [FilterPipe](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/pipes/filter-pipe.pipe.ts)
  
-![carfilter](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/filter.png)
+![carfilter](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/filter.png)
  
 ## Guards ##
 
@@ -267,9 +267,9 @@ Aşağıdaki bağlantıları kullanarak detayları inceleyebilirsiniz.
  
  ## English Description ##
   
-![Anasayfa 1](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/cars.png)
+![Anasayfa 1](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/cars.png)
 
-![Anasayfa 2](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/cars2.png)
+![Anasayfa 2](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/cars2.png)
 
 Araç Sepeti is a car rental project that belongs to the C# programming language, adhering to SOLID principles and with an N-layer architecture structure; it is still under development. Currently, you are studying the front-end part of the project, created using Angular technology.
 
@@ -369,7 +369,7 @@ Our files under the Services folder allow us to make a request to the WebAPI par
  
  - :page_facing_up: [car-add.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/car-add/car-add.component.ts)
  
- ![araç ekleme](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/caradd.png)
+ ![araç ekleme](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/caradd.png)
  
   :open_file_folder: [CarFilter](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/car-filter)
  
@@ -377,7 +377,7 @@ Our files under the Services folder allow us to make a request to the WebAPI par
  
  - :page_facing_up: [car-filter.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/car-filter/car-filter.component.ts)
  
- ![Carfilter](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/filter.png)
+ ![Carfilter](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/filter.png)
  
  :open_file_folder: [CarUpdate](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/car-update)
  
@@ -385,7 +385,7 @@ Our files under the Services folder allow us to make a request to the WebAPI par
  
  - :page_facing_up: [car-update.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/car-update/car-update.component.ts)
 
- ![update](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/update.png)
+ ![update](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/update.png)
  
  :open_file_folder: [Cars](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/car)
  
@@ -393,9 +393,9 @@ Our files under the Services folder allow us to make a request to the WebAPI par
  
  - :page_facing_up: [car.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/car/car.component.ts)
  
- ![cars1](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/cars.png)
+ ![cars1](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/cars.png)
  
- ![cars2](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/cars2.png)
+ ![cars2](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/cars2.png)
  
  :open_file_folder: [CarDetail](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/cardetail)
  
@@ -403,7 +403,7 @@ Our files under the Services folder allow us to make a request to the WebAPI par
  
  - :page_facing_up: [cardetail.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/cardetail/cardetail.component.ts)
  
- ![detail](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/carDetail.png)
+ ![detail](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/carDetail.png)
  
   :open_file_folder: [Color](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/color)
  
@@ -417,7 +417,7 @@ Our files under the Services folder allow us to make a request to the WebAPI par
  
  - :page_facing_up: [customer.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/customer/customer.component.ts)
  
- ![customer](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/customers.png)
+ ![customer](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/customers.png)
  
  :open_file_folder: [Footer](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/footer)
  
@@ -425,7 +425,7 @@ Our files under the Services folder allow us to make a request to the WebAPI par
  
  - :page_facing_up: [footer.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/footer/footer.component.ts)
  
- ![footer](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/footer.png)
+ ![footer](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/footer.png)
  
  :open_file_folder: [Login](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/login)
  
@@ -433,7 +433,7 @@ Our files under the Services folder allow us to make a request to the WebAPI par
  
  - :page_facing_up: [login.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/login/login.component.ts)
  
-![login](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/login.png)
+![login](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/login.png)
  
  :open_file_folder: [Navi](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/navi)
  
@@ -441,7 +441,7 @@ Our files under the Services folder allow us to make a request to the WebAPI par
  
  - :page_facing_up: [navi.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/navi/navi.component.ts)
  
- ![option](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/options.png)
+ ![option](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/options.png)
  
  :open_file_folder: [Payment](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/payment)
  
@@ -449,7 +449,7 @@ Our files under the Services folder allow us to make a request to the WebAPI par
  
  - :page_facing_up: [payment.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/payment/payment.component.ts)
  
- ![payment](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/payment.png)
+ ![payment](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/payment.png)
  
  :open_file_folder: [Register](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/register)
  
@@ -457,7 +457,7 @@ Our files under the Services folder allow us to make a request to the WebAPI par
  
  - :page_facing_up: [register.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/register/register.component.ts)
  
- ![register](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/register.png)
+ ![register](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/register.png)
  
  :open_file_folder: [RentalDetail](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/rental-detail)
  
@@ -471,7 +471,7 @@ Our files under the Services folder allow us to make a request to the WebAPI par
  
  - :page_facing_up: [rental.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/rental/rental.component.ts)
  
- ![rental](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/rental.png)
+ ![rental](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/rental.png)
  
  :open_file_folder: [UserOrganize](https://github.com/hlmclgl/Rental-front-end/tree/master/src/app/components/user-organize)
  
@@ -479,9 +479,9 @@ Our files under the Services folder allow us to make a request to the WebAPI par
  
  - :page_facing_up: [user-organize.component.ts](https://github.com/hlmclgl/Rental-front-end/blob/master/src/app/components/user-organize/user-organize.component.ts)
  
- ![user](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/user.png)
+ ![user](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/user.png)
  
- ![usersettings](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/usersettings.png)
+ ![usersettings](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/usersettings.png)
  
  ## Pipes ##
  
@@ -494,19 +494,19 @@ You can review the details using the links below.
  
  - :page_facing_up: [FilterBrandPipe](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/pipes/filter-brand-pipe.pipe.ts)
  
-![brandfilter](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/brandFilter2.png)
+![brandfilter](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/brandFilter2.png)
  
 :pushpin:Filter-color at the bottom.our pipe file allows you to list the results that match the characters entered in our text box according to the color section found in our tool list.
  
  - :page_facing_up: [FilterColorPipe](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/pipes/filter-color-pipe.pipe.ts)
  
-![colorfilter](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/ColorFilter2.png)
+![colorfilter](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/ColorFilter2.png)
 
 :pushpin:Filter-pipe at the bottom.our pipe file allows you to list the tools found in our tool list according to the brand and model, the results corresponding to the characters entered in our text box.
  
  - :page_facing_up: [FilterPipe](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/pipes/filter-pipe.pipe.ts)
  
-![carfilter](https://raw.githubusercontent.com/hlmclgl/Rental-front-end/main/images/filter.png)
+![carfilter](https://raw.githubusercontent.com/sevdeskmn/Rental-front-end/main/images/filter.png)
  
 ## Guards ##
 
