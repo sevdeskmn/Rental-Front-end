@@ -522,9 +522,8 @@ You can review the details using the links below.
  
  - :page_facing_up:[AuthInterceptors](https://github.com/sevdeskmn/Rental-front-end/blob/main/src/app/interceptors/auth.interceptor.ts)
  
-### :pushpin:***You can access my LinkedIn account [from here](https://www.linkedin.com/in/ahmet-hilmi-%C3%A7ilo%C4%9Flu-884012203/).*** ###
+### :pushpin:***You can access my LinkedIn account [from here](https://www.linkedin.com/in/sevde-sekman-09495119b/).*** ###
 
-### :e-mail:***E-mail: hlmclgl@gmail.com*** ###
 
 
 
