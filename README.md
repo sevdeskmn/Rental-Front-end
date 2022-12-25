@@ -8,7 +8,7 @@
 
 Araç Sepeti, SOLID prensiplerine bağlı kalınarak ve N-Katmalı mimari yapısıyla C# programlama diline ait; henüz geliştirilme aşamasında olan bir araç kiralama projesidir. Şu anda projenin Angular teknolojisi kullanılarak oluşturulmuş front-end kısmını incelemektesiniz.
 
-:link: ***Projenin back-end kısmına [buradan](https://github.com/hlmclgl/RentaCarProject) ulaşabilirsiniz.***
+:link: ***Projenin back-end kısmına [buradan](https://github.com/hlmclgl/Rental-Back-end) ulaşabilirsiniz.***
 
 :package:**Projeye entegre edilen modüller(node_modules)**
   
@@ -271,7 +271,7 @@ Aşağıdaki bağlantıları kullanarak detayları inceleyebilirsiniz.
 
 Araç Sepeti is a car rental project that belongs to the C# programming language, adhering to SOLID principles and with an N-layer architecture structure; it is still under development. Currently, you are studying the front-end part of the project, created using Angular technology.
 
-:link: ***You can arrive at the back-end of the project [from here](https://github.com/hlmclgl/RentaCarProject)***
+:link: ***You can arrive at the back-end of the project [from here](https://github.com/hlmclgl/Rental-Back-end)***
 
 :package:**Modules integrated into the project(node_modules)**
   
